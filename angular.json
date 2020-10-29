@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rental-tdd"
+    }
+  },
+  "defaultProject": "rental-tdd",
+  "cli": {
+    "analytics": false
+  }
 }
