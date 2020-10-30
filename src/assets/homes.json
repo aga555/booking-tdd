@@ -1,0 +1,17 @@
+[
+  {
+    "title": "home 1",
+    "image": "assets/home.jpg",
+    "location": "Boston"
+  },
+  {
+    "title": "home 2",
+    "image": "assets/home2.jpg",
+    "location": "Chicago"
+  },
+  {
+    "title": "home 2",
+    "image": "assets/home3.jpg",
+    "location": "Alabama"
+  }
+]
