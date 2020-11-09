@@ -2,16 +2,19 @@
   {
     "title": "home 1",
     "image": "assets/home.jpg",
-    "location": "Boston"
+    "location": "Boston",
+    "data": "01/01/2000 9:03:01 CST"
   },
   {
     "title": "home 2",
     "image": "assets/home2.jpg",
-    "location": "Chicago"
+    "location": "Chicago",
+    "data": "01/01/2000 9:03:01 EST"
   },
   {
     "title": "home 2",
     "image": "assets/home3.jpg",
-    "location": "Alabama"
+    "location": "Alabama",
+    "data": "01/01/2000 9:03:01 EST"
   }
 ]

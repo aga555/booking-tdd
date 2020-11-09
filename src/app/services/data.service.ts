@@ -10,6 +10,6 @@ export class DataService {
   }
 
   getHomes$() {
-    return this.httpClient.get<any>('assets/homes.json');
+    return this.httpClient.get('assets/homes.json');
   }
 }

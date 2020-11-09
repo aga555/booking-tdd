@@ -13,6 +13,9 @@
           <div data-test="location" class="uk-text-muted">
             {{ home.location }}
           </div>
+          <div data-test="time" class="uk-text-muted">
+            {{ home.data |date:'dd-MM-yyyy hh:mm:ss z'}}
+          </div>
         </div>
       </div>
     </div>
